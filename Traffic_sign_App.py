@@ -19,7 +19,7 @@ st.write('''# Model
 We build a Classification Model using the MobileNet's feature vectors and a Dense Layer for our Classification Purpose.
 
 ''')
-st.image('Photos\Model_MobileNet.png')
+st.image('Photos/Model_MobileNet.png')
 
 st.write('''# Predictions 
 We tested the model with an image we took with a mobile phone. These are the Results: 
